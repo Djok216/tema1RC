@@ -1,0 +1,17 @@
+Tema 1 la RC
+
+1) 
+	Logarea se face dupa informatia din fisierul "Users" aflat in directorul unde se executa MZ-ul.
+	Formatul fisierului "Users":
+		Login1 Parola1
+		Login2 Parola2
+		...
+		...
+		LoginN ParolaN
+2)
+	MyFind:
+		Cauta cu dfs din directorul "."
+		Cand gaseste un fisier, se opreste.
+
+3) 	MyStat:
+		Cauta doar in directorul curent fisierul
